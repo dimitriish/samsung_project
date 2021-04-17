@@ -1,0 +1,14 @@
+Base path: 'D:/2020.2.3f1/Editor/Data', plugins path 'D:/2020.2.3f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=31982 outsize=1469 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=35959 outsize=2787 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26692 outsize=10970 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=41258 outsize=35914 ok=1
+Cmd: initializeCompiler
+Cmd: shutdown
